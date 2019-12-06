@@ -1,0 +1,262 @@
+.btn {
+  margin-left: 10px;
+}
+
+.jumbotron {
+  background: none;
+  color: black;
+}
+
+.incorrect-password {
+  background: white;
+  margin-top: 27%;
+}
+
+.incorrect-password p {
+  color: grey;
+}
+
+.navbar-dark {
+  background: none;
+}
+
+.contactbtn {
+  background-color: #ef842d !important;
+}
+
+.loginbtn {
+  background-color: #ef602d !important;
+}
+
+.bankbtn {
+  background-color: #a02f1e !important;
+}
+
+.businessbtn {
+  background-color: #500 !important;
+}
+
+.button {
+  transition-duration: 0.4s;
+  color: white !important;
+}
+
+.button:focus {
+  outline-color: #fff;
+  outline-width: thick;
+}
+
+.button:hover {
+  color: #fff !important;
+  background-color: #000 !important;
+}
+
+#categories h1 {
+  color: black;
+}
+
+.index2,
+.index3,
+.index4,
+.index5 {
+  height: 1080px;
+  background: radial-gradient(#ef842d, #ef602d, #a02f1e, #500);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 10px;
+}
+
+.index6,
+.index7,
+.index8,
+.index9,
+.index10,
+.index11,
+.index12,
+.index13,
+.index14,
+.index15,
+.index16,
+.index45 {
+  height: 1080px;
+  background: rgb(45, 44, 55);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 10px;
+}
+
+.index7,
+.index8,
+.index9,
+.index10,
+.index11,
+.index12,
+.index13,
+.index14,
+.index15,
+.index16 {
+  overflow: hidden;
+}
+
+.form-heading {
+  color: #fff;
+  font-size: 23px;
+}
+
+.panel h2 {
+  color: #444444;
+  font-size: 18px;
+  margin: 0 0 8px 0;
+}
+
+.panel p {
+  color: #777777;
+  font-size: 14px;
+  margin-bottom: 30px;
+  line-height: 24px;
+}
+
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom: 10px;
+}
+
+.login-form {
+  margin-top: 130px;
+  text-align: center;
+}
+
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.login-form .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 90%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+
+.forgot {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+
+.back {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.back a {
+  color: #444444;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.login-form .btn.button {
+  font-size: 14px;
+  width: 90%;
+  height: 50px;
+}
+
+.login-form .btn.btn-danger {
+  font-size: 14px;
+  width: 90%;
+  height: 50px;
+}
+
+.main-div2 {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 65%;
+  padding: 50px 70px 70px 60px;
+}
+
+.login-form1 .form-control {
+  background: #f7f7f7 none 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.modal-button {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 95%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+
+.accountTypePicture img {
+  height: 50%;
+}
+.flexible-modal {
+  position: absolute;
+  z-index: 1;
+  border: 1px solid #ccc;
+  background: white;
+}
+.flexible-modal-mask {
+  position: fixed;
+  height: 100%;
+  background: rgba(55, 55, 55, 0.6);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.flexible-modal-resizer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  cursor: se-resize;
+  margin: 5px;
+  border-bottom: solid 2px #333;
+  border-right: solid 2px #333;
+}
+.flexible-modal-drag-area {
+  background: rgba(22, 22, 333, 0.2);
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  cursor: move;
+}
